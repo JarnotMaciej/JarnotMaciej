@@ -8,13 +8,10 @@
 
 <br>
 🌱 Computer Science Student<br>
-🌱 I’m currently learning Azure and PowerShell scripting<br>
+🌱 I’m currently learning Python 🐍<br>
 🌱 Playing with Docker and VMs on my small homelab<br><br><br>
 
 <p align="center">
-<img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/powershell.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/windows-11.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/raspberry.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
