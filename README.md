@@ -18,7 +18,7 @@
 <img src="https://img.icons8.com/fluency/48/000000/proxmox.png"/>
 </p>
 
-<p><a href="icons8.com">Icons provided by Icons8<a></p>
+<p><a href="https://icons8.com">Icons provided by Icons8<a></p>
 
 <!---
 JarnotMaciej/JarnotMaciej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
