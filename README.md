@@ -8,7 +8,7 @@
 
 <br>
 🌱 Computer Science Student<br>
-🌱 I’m currently learning ~~Python 🐍~~ SFML<br>
+🌱 I’m currently learning SFML<br>
 🌱 Playing with Docker and VMs on my small homelab<br><br><br>
 
 <p align="center">
