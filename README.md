@@ -15,6 +15,7 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png"/>
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/terraform.png"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/proxmox.png"/>
 </p>
 
