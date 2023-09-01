@@ -1,29 +1,35 @@
-<!--header / https://github.com/denvercoder1/readme-typing-svg -->
+# Hi there, I'm Maciej! 👋
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7DC92B&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Maciek" alt="Typing SVG" />
-</p><br>
-<p align="center">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/clover.png"/>
-</p>
+I'm an Informatics student, developer, and homelab enthusiast who loves diving into the world of technology.
 
-<br>
-🌱 Computer Science Student<br>
-🌱 I’m currently learning Python (just doing small project using Flask)<br>
-🌱 Playing with Docker and VMs on my small homelab<br><br><br>
+## Currently Learning 🌱
 
-<p align="center">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/terraform.png"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/proxmox.png"/>
-</p>
+- **Python:** I'm currently diving into Python, and I'm working on small projects, including one using Flask. Learning by doing is my approach.
+- **Hugo:** I'm exploring Hugo to enhance my blogging skills. Sharing knowledge is important to me, and Hugo seems like a great tool for that.
+- **Azure:** I'm venturing into Azure to expand my cloud computing knowledge and discover its capabilities.
 
-**Check out my repos below!**
+## Tools/Interests
 
-<p><a href="https://icons8.com">Icons provided by Icons8<a></p>
+![Windows](https://img.icons8.com/fluency/48/windows-95.png)
+![Proxmox](https://img.icons8.com/fluency/48/proxmox.png)
+![Docker](https://img.icons8.com/fluency/48/docker.png)
+![Terraform](https://img.icons8.com/fluency/48/terraform.png)
+![Azure](https://img.icons8.com/fluency/48/azure-1.png)
+![GitHub](https://img.icons8.com/fluency/48/github.png)
+![C++](https://img.icons8.com/fluency/48/c-plus-plus-logo.png)
+![Python](https://img.icons8.com/fluency/48/python.png)
+![Flask](https://img.icons8.com/fluency/48/flask.png)
+![Jetbrains Toolbox](https://img.icons8.com/fluency/48/jetbrains-toolbox.png)
 
-<!---
-JarnotMaciej/JarnotMaciej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Connect with Me 📫
+
+- **[jarnotmaciej.com](https://jarnotmaciej.com/)**
+- **[LinkedIn](https://www.linkedin.com/in/jarnotmaciej/)**
+
+Feel free to check out my repositories! 👨‍💻
+
+
+---
+
+[Icons provided by Icons8](https://icons8.com)
