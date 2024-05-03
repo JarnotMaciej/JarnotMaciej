@@ -8,7 +8,7 @@ I'm an Informatics student, developer, and homelab enthusiast who loves diving i
 - **Unreal Engine:** I'm diving into Unreal Engine to explore the world of game development. Creating captivating experiences is a thrilling journey I'm embarking on.
 - **Hugo:** I'm venturing into Hugo to refine my web development skills. Crafting visually stunning and efficient websites is a priority on my learning path.
 
-## Tools I worked with
+## Tools I worked with 🛠️
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
